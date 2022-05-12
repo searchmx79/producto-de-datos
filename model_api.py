@@ -12,7 +12,7 @@ import pickle
 import numpy
 
 # ---------------------------------------------------------------------------------------
-#                       Configuración del proyecto
+#                       Configuración del proyecto .
 # Se usa la biblioteca Flask-RESTX para convertir la aplicación web en un API REST.
 # Consulta la documentación de la biblioteca aquí: https://flask-restx.readthedocs.io/en/latest/quickstart.html
 app = Flask(__name__)
